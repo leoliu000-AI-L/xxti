@@ -1,0 +1,96 @@
+[
+  {
+    "code": "HHHH",
+    "name": "天道乱码",
+    "prompt": "五官被乱码和赛博义体覆盖的异变修士，雌雄莫辨，元素乱序，表情抽象，像把天机盘都算崩的活体 bug。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "dcd7d671-0112-47c6-a1f3-78fda0f6047a",
+      "online_task_id": "019d7df3-176d-7041-a98e-5b7c21c9cd6f",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "dcd7d671-0112-47c6-a1f3-78fda0f6047a",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "dcd7d671-0112-47c6-a1f3-78fda0f6047a",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc71/aRrKMNW4fUm9AKqZejlBy_pmFNp4uW.png",
+            "content_type": "image/png",
+            "file_name": "aRrKMNW4fUm9AKqZejlBy_pmFNp4uW.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7266756899771281
+        },
+        "seed": 2133421955,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "五官被乱码和赛博义体覆盖的异变修士，雌雄莫辨，元素乱序，表情抽象，像把天机盘都算崩的活体 bug。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:09:37",
+      "completed_at": "2026-04-12T03:09:56.937327"
+    }
+  },
+  {
+    "code": "DRUNK",
+    "name": "丹瘾魔修",
+    "prompt": "被猛药和增幅反噬的赛博魔修，半人半机械，亢奋又空虚，瞳孔发亮，危险上头，像明知快炸还要再磕一口的疯子。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "5c73e2bc-282f-4502-807a-5fbca264301a",
+      "online_task_id": "019d7df3-1fdb-7482-bf8d-cf5826de65c3",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "5c73e2bc-282f-4502-807a-5fbca264301a",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "5c73e2bc-282f-4502-807a-5fbca264301a",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc71/GeLgkWm2V4zAH0op64IfG_gbrScSDC.png",
+            "content_type": "image/png",
+            "file_name": "GeLgkWm2V4zAH0op64IfG_gbrScSDC.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.731903618958313
+        },
+        "seed": 1253109979,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "被猛药和增幅反噬的赛博魔修，半人半机械，亢奋又空虚，瞳孔发亮，危险上头，像明知快炸还要再磕一口的疯子。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:09:39",
+      "completed_at": "2026-04-12T03:09:58.532581"
+    }
+  }
+]

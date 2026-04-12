@@ -1,0 +1,210 @@
+[
+  {
+    "code": "ASCN",
+    "name": "飞升批",
+    "prompt": "高冷傲慢的年轻天才男剑修，眼神像已经把你的人生判成低配版本，极简高阶法袍，飞升台冷光，克制傲慢，像顺手就能淘汰同门的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "10aa0217-6dbd-4278-94c2-8235bc15179c",
+      "online_task_id": "019d7dee-b26b-7082-9f8b-9dd823f4d21c",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "10aa0217-6dbd-4278-94c2-8235bc15179c",
+    "status": "failed",
+    "task_result": {
+      "success": true,
+      "task_id": "10aa0217-6dbd-4278-94c2-8235bc15179c",
+      "status": "failed",
+      "model": "fal-ai/flux-2/flash",
+      "output": null,
+      "created_at": "2026-04-12T03:04:49"
+    }
+  },
+  {
+    "code": "SPNS",
+    "name": "资源矿主",
+    "prompt": "雍容华贵的仙门女总裁，金线法袍，储物戒与权限符印密集，淡笑，精于算计，像连情分都能做资产折现的女强人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "f405ad42-7738-4c97-818d-a65c24e623c9",
+      "online_task_id": "019d7dee-bac4-7412-ae28-12ed8915a42a",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "f405ad42-7738-4c97-818d-a65c24e623c9",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "f405ad42-7738-4c97-818d-a65c24e623c9",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/446c6783e3474ff2b7c33120a83a5d58.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "pL8L8bqYg9v--W6i2cH6f_Qg1bcGgn.png"
+          }
+        ],
+        "seed": 27478524,
+        "prompt": "雍容华贵的仙门女总裁，金线法袍，储物戒与权限符印密集，淡笑，精于算计，像连情分都能做资产折现的女强人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7490462389978347
+        }
+      },
+      "created_at": "2026-04-12T03:04:51",
+      "completed_at": "2026-04-12T03:05:04"
+    }
+  },
+  {
+    "code": "VSPR",
+    "name": "门面仙君",
+    "prompt": "绝美清冷的仙子，完美到像宗门宣传片大女主，白衣无瑕，眼神高冷审视，像礼貌看着别人塌房的高配门面。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "b39f2a5f-b13c-4889-b3a8-cb903c2e1da5",
+      "online_task_id": "019d7dee-c7ae-7120-8bad-db823a7f138b",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "b39f2a5f-b13c-4889-b3a8-cb903c2e1da5",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "b39f2a5f-b13c-4889-b3a8-cb903c2e1da5",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/6c0a1c3e5cfa4ee8856e34ad1684de32.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "StaYpCmEdQL6qZGA-NVu9_99FMuX9r.png"
+          }
+        ],
+        "seed": 41144524,
+        "prompt": "绝美清冷的仙子，完美到像宗门宣传片大女主，白衣无瑕，眼神高冷审视，像礼貌看着别人塌房的高配门面。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7357388089876622
+        }
+      },
+      "created_at": "2026-04-12T03:04:54",
+      "completed_at": "2026-04-12T03:05:04"
+    }
+  },
+  {
+    "code": "DOMN",
+    "name": "掌门候补",
+    "prompt": "气场全开的霸道男掌门候补，黑金法袍，掌门令在手，稳定而高压，像不用发火也会让人先低头的上位者。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "77e9d88c-7f1b-4467-8426-4f451ebc9519",
+      "online_task_id": "019d7dee-d021-7dd1-9f21-159897a9dd5a",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "77e9d88c-7f1b-4467-8426-4f451ebc9519",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "77e9d88c-7f1b-4467-8426-4f451ebc9519",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/22b974dece8040bbb99d05f777662683.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "Sz7Wu_xtql7Z-55YT1lDz_k77bJPlJ.png"
+          }
+        ],
+        "seed": 2141867635,
+        "prompt": "气场全开的霸道男掌门候补，黑金法袍，掌门令在手，稳定而高压，像不用发火也会让人先低头的上位者。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7518331800019951
+        }
+      },
+      "created_at": "2026-04-12T03:04:56",
+      "completed_at": "2026-04-12T03:05:05"
+    }
+  },
+  {
+    "code": "AURA",
+    "name": "气运挂件",
+    "prompt": "被命运偏爱的甜美少女修士，锦鲤体质，周身金色气运丝线，柔软外壳下带拿捏感，像总有人替她铺路的团宠。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "72c544ba-47bd-458d-aec3-665e7d860c61",
+      "online_task_id": "019d7dee-db76-7ec0-8d8e-c906cc3c5cba",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "72c544ba-47bd-458d-aec3-665e7d860c61",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "72c544ba-47bd-458d-aec3-665e7d860c61",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc56/QDrukipRiKI6Dd-b_SMVG_mFlXISmd.png",
+            "content_type": "image/png",
+            "file_name": "QDrukipRiKI6Dd-b_SMVG_mFlXISmd.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7398593660036568
+        },
+        "seed": 533813769,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "被命运偏爱的甜美少女修士，锦鲤体质，周身金色气运丝线，柔软外壳下带拿捏感，像总有人替她铺路的团宠。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:04:59",
+      "completed_at": "2026-04-12T03:05:21.928470"
+    }
+  }
+]

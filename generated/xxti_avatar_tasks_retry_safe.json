@@ -1,0 +1,96 @@
+[
+  {
+    "code": "ASCN",
+    "name": "???",
+    "prompt": "??????????????????????????????????????????单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "a52c3a3e-8508-4bd4-9bf1-db9f8ce12d79",
+      "online_task_id": "019d7d7a-fcb4-7012-8184-c318731af3b1",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "a52c3a3e-8508-4bd4-9bf1-db9f8ce12d79",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "a52c3a3e-8508-4bd4-9bf1-db9f8ce12d79",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95d95e/PlXIxkBlmtn64o8qCE_gL_ney0O8Fs.png",
+            "content_type": "image/png",
+            "file_name": "PlXIxkBlmtn64o8qCE_gL_ney0O8Fs.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7335547449765727
+        },
+        "seed": 1146350812,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "??????????????????????????????????????????单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T00:58:25",
+      "completed_at": "2026-04-12T00:58:37.585411"
+    }
+  },
+  {
+    "code": "RUSH",
+    "name": "????",
+    "prompt": "????????????????????????????????????????????单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "0538d133-f2c8-42c5-8d73-1de93ac8c03e",
+      "online_task_id": "019d7d7b-049a-79b3-8237-f6cd1e2ba3f2",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "0538d133-f2c8-42c5-8d73-1de93ac8c03e",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "0538d133-f2c8-42c5-8d73-1de93ac8c03e",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95d95e/w3kTvgkahAifbylYX4po8_pNudiY2x.png",
+            "content_type": "image/png",
+            "file_name": "w3kTvgkahAifbylYX4po8_pNudiY2x.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7331150569953024
+        },
+        "seed": 1042782556,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "????????????????????????????????????????????单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T00:58:27",
+      "completed_at": "2026-04-12T00:58:38.715335"
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "code": "LINK",
+    "name": "结契脑",
+    "prompt": "情感浓度过高的结契修士，因果红线缠腕，眼神真又危险，像认定了就想把命绑一起的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "22e83f42-db22-47c4-8eb3-ac7feac365b0",
+      "online_task_id": "019d7d6c-f39e-7ac1-b603-d445126572a6",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12736.0
+    },
+    "task_id": "22e83f42-db22-47c4-8eb3-ac7feac365b0",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "22e83f42-db22-47c4-8eb3-ac7feac365b0",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95d902/FWOpI45gSRh9V-_xtsFso_Le73fLju.png",
+            "content_type": "image/png",
+            "file_name": "FWOpI45gSRh9V-_xtsFso_Le73fLju.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7356960890174378
+        },
+        "seed": 2113872559,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "情感浓度过高的结契修士，因果红线缠腕，眼神真又危险，像认定了就想把命绑一起的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T00:43:06",
+      "completed_at": "2026-04-12T00:43:17.902757"
+    }
+  },
+  {
+    "code": "NEST",
+    "name": "洞府保姆",
+    "prompt": "温柔但有控制欲的照料型修士，干净、冷静、疲惫，像你离了他生活系统会立刻崩的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "40c0d6d2-7b3c-4e21-8762-1144e1a4eeb8",
+      "online_task_id": "019d7d6c-fc10-7492-9053-a6263bdc56e0",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12734.0
+    },
+    "task_id": "40c0d6d2-7b3c-4e21-8762-1144e1a4eeb8",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "40c0d6d2-7b3c-4e21-8762-1144e1a4eeb8",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95d902/3V0Gw1xMLZXx4_xFpnwsW_f0MR4BAp.png",
+            "content_type": "image/png",
+            "file_name": "3V0Gw1xMLZXx4_xFpnwsW_f0MR4BAp.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7367710240068845
+        },
+        "seed": 1705401974,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "温柔但有控制欲的照料型修士，干净、冷静、疲惫，像你离了他生活系统会立刻崩的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T00:43:08",
+      "completed_at": "2026-04-12T00:43:19.023828"
+    }
+  }
+]

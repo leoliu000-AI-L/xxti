@@ -1,0 +1,64 @@
+[
+  {
+    "success": true,
+    "task_id": "e4d6cd3d-7a43-46c6-90db-bfa3d98c20f3",
+    "status": "completed",
+    "model": "fal-ai/flux-2/flash",
+    "output": {
+      "images": [
+        {
+          "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/a751632c11624e15b975d75936b580a0.png",
+          "width": 1024,
+          "height": 1024,
+          "content_type": "image/png",
+          "file_name": "ikdeI7HZFa53d4T7ZrieP_bHxdC6eN.png"
+        }
+      ],
+      "seed": 254367675,
+      "prompt": "高敏感阴郁修士，眼神常年防爆，像别人一句聊聊就能脑补出灭门事故的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+      "has_nsfw_concepts": [
+        false
+      ],
+      "timings": {
+        "inference": 0.7350607630214654
+      }
+    },
+    "created_at": "2026-04-12T00:33:41",
+    "completed_at": "2026-04-12T00:35:04"
+  },
+  {
+    "success": true,
+    "task_id": "98854107-1d1e-4a90-85d4-731341288544",
+    "status": "failed",
+    "model": "fal-ai/flux-2/flash",
+    "output": null,
+    "created_at": "2026-04-12T00:33:45"
+  },
+  {
+    "success": true,
+    "task_id": "026b30d1-9132-459e-997b-b0705234cd0c",
+    "status": "completed",
+    "model": "fal-ai/flux-2/flash",
+    "output": {
+      "images": [
+        {
+          "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/302a7023544f48e584838cacc28e6a70.png",
+          "width": 1024,
+          "height": 1024,
+          "content_type": "image/png",
+          "file_name": "CjISRuHl6lPSyVf2IVfcF_pFw7KQTT.png"
+        }
+      ],
+      "seed": 1477332319,
+      "prompt": "攻击性美人，华丽轻纱，高级厌倦脸，擅长把暧昧变成统治术。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+      "has_nsfw_concepts": [
+        false
+      ],
+      "timings": {
+        "inference": 0.7995587103068829
+      }
+    },
+    "created_at": "2026-04-12T00:33:57",
+    "completed_at": "2026-04-12T00:35:07"
+  }
+]

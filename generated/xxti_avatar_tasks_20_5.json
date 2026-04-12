@@ -1,0 +1,229 @@
+[
+  {
+    "code": "NPCD",
+    "name": "边角料弟子",
+    "prompt": "存在感低却敏感的透明人女弟子，局促、认真、容易受伤，像主角团背景里的沉默小师妹。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "7b0f7318-8934-48ce-b333-c9feff40dca1",
+      "online_task_id": "019d7df2-671a-7e11-91ad-a433dcc9d30f",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "7b0f7318-8934-48ce-b333-c9feff40dca1",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "7b0f7318-8934-48ce-b333-c9feff40dca1",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/744a58fecbb24afbac86fffc33671472.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "HtiDnB_9edM26khf8o2jj_qo2aXqDh.png"
+          }
+        ],
+        "seed": 445931800,
+        "prompt": "存在感低却敏感的透明人女弟子，局促、认真、容易受伤，像主角团背景里的沉默小师妹。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7339075249619782
+        }
+      },
+      "created_at": "2026-04-12T03:08:51",
+      "completed_at": "2026-04-12T03:09:05"
+    }
+  },
+  {
+    "code": "SOLO",
+    "name": "独狼散仙",
+    "prompt": "边界感极强的孤傲男散仙，透明结界护身，面无表情，像别人一靠近就先拉警报的独行侠。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "c129fb48-bfe4-4648-be69-32d805cdcfa0",
+      "online_task_id": "019d7df2-6f69-7980-9482-aab63e9cb593",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "c129fb48-bfe4-4648-be69-32d805cdcfa0",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "c129fb48-bfe4-4648-be69-32d805cdcfa0",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc6d/CkW9-pt85Xq1w6lxjrdRx_LtKRIoTG.png",
+            "content_type": "image/png",
+            "file_name": "CkW9-pt85Xq1w6lxjrdRx_LtKRIoTG.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7535261869998067
+        },
+        "seed": 288151530,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "边界感极强的孤傲男散仙，透明结界护身，面无表情，像别人一靠近就先拉警报的独行侠。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:08:54",
+      "completed_at": "2026-04-12T03:09:18.482559"
+    }
+  },
+  {
+    "code": "WILD",
+    "name": "荒野邪修",
+    "prompt": "野性外溢的危险男邪修，满身图腾，衣装失序，异化感强，像根本没打算和文明社会好好相处的狂徒。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "3d09328d-30eb-4c1e-ba3a-8d844081c74c",
+      "online_task_id": "019d7df2-77c3-77f1-918c-2ba5c55039a8",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "3d09328d-30eb-4c1e-ba3a-8d844081c74c",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "3d09328d-30eb-4c1e-ba3a-8d844081c74c",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/49ace9a0dfd24349801a3ee69190d7f6.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "exmXV-8Ffrb7YWoOw0ip1_LJiZQwtK.png"
+          }
+        ],
+        "seed": 662994560,
+        "prompt": "野性外溢的危险男邪修，满身图腾，衣装失序，异化感强，像根本没打算和文明社会好好相处的狂徒。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7327040340023814
+        }
+      },
+      "created_at": "2026-04-12T03:08:56",
+      "completed_at": "2026-04-12T03:09:05"
+    }
+  },
+  {
+    "code": "DEAD",
+    "name": "空壳真君",
+    "prompt": "银发如雪、毫无生气的空洞女修，苍白、空茫、抽离，像所有热闹都再也点不燃她的机械人偶。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "32c1a5cd-4d40-4a6e-aba8-46518d1a70fa",
+      "online_task_id": "019d7df2-81f2-7dd3-9272-653a91d22538",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "32c1a5cd-4d40-4a6e-aba8-46518d1a70fa",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "32c1a5cd-4d40-4a6e-aba8-46518d1a70fa",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/33e2bd3b48904756b6eae28af5e94bc1.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "p7s3ckAwNfeP4bRacUflT_by325BZN.png"
+          }
+        ],
+        "seed": 246834672,
+        "prompt": "银发如雪、毫无生气的空洞女修，苍白、空茫、抽离，像所有热闹都再也点不燃她的机械人偶。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.7634406079960172
+        }
+      },
+      "created_at": "2026-04-12T03:08:58",
+      "completed_at": "2026-04-12T03:09:05"
+    }
+  },
+  {
+    "code": "IMFW",
+    "name": "废灵根",
+    "prompt": "脆弱楚楚可怜的小师妹，湿润眼神，薄防御，像一句玩笑都能回放三天的娇弱女修。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "a05dd84d-b90c-44eb-b3cb-837a880ca0d7",
+      "online_task_id": "019d7df2-8a41-7ac1-a580-5812ebc3b4ea",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "a05dd84d-b90c-44eb-b3cb-837a880ca0d7",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "a05dd84d-b90c-44eb-b3cb-837a880ca0d7",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://cdn-video.51sux.com/v3-tasks/2026/04/12/38b64a47bf8b4a7ca1b5cf08ae97d85d.png",
+            "width": 1024,
+            "height": 1024,
+            "content_type": "image/png",
+            "file_name": "ajs8kcc_lZXexsOLtkl4E_uI1eYrTV.png"
+          }
+        ],
+        "seed": 1731991616,
+        "prompt": "脆弱楚楚可怜的小师妹，湿润眼神，薄防御，像一句玩笑都能回放三天的娇弱女修。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+        "has_nsfw_concepts": [
+          false
+        ],
+        "timings": {
+          "inference": 0.765330100999563
+        }
+      },
+      "created_at": "2026-04-12T03:09:00",
+      "completed_at": "2026-04-12T03:09:05"
+    }
+  }
+]

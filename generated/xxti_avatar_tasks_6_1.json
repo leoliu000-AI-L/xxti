@@ -1,0 +1,28 @@
+[
+  {
+    "code": "RUSH",
+    "name": "爆肝道君",
+    "prompt": "熬夜过载的执行狂，眼下青黑，法袍凌乱，背后满是计划符屏，像天劫来了都要先清待办的人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "79c902cb-df86-4feb-98c1-5cf2639d223f",
+      "online_task_id": "019d7d79-a8ea-7fe1-aecc-2bb76df75f9d",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "79c902cb-df86-4feb-98c1-5cf2639d223f",
+    "status": "failed",
+    "task_result": {
+      "success": true,
+      "task_id": "79c902cb-df86-4feb-98c1-5cf2639d223f",
+      "status": "failed",
+      "model": "fal-ai/flux-2/flash",
+      "output": null,
+      "created_at": "2026-04-12T00:56:58"
+    }
+  }
+]

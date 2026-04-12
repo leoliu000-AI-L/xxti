@@ -1,0 +1,237 @@
+[
+  {
+    "code": "NULL",
+    "name": "塌房预警",
+    "prompt": "高敏感阴郁男修，眼神常年防爆，像别人一句聊聊就能脑补出灭门事故的神经质青年。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "b1800c26-2fed-4483-b8e9-19671ed74fc2",
+      "online_task_id": "019d7def-6d66-79d1-9810-87fc13d4e575",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "b1800c26-2fed-4483-b8e9-19671ed74fc2",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "b1800c26-2fed-4483-b8e9-19671ed74fc2",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc59/ukOsByufkCHrU6vUDPg-s_qgBONprH.png",
+            "content_type": "image/png",
+            "file_name": "ukOsByufkCHrU6vUDPg-s_qgBONprH.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7498402999990503
+        },
+        "seed": 1031216365,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "高敏感阴郁男修，眼神常年防爆，像别人一句聊聊就能脑补出灭门事故的神经质青年。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:05:36",
+      "completed_at": "2026-04-12T03:06:02.987449"
+    }
+  },
+  {
+    "code": "RUSH",
+    "name": "爆肝道君",
+    "prompt": "熬夜过载的卷王男修，眼下青黑，法袍凌乱，背后满是计划符屏，像天劫来了都要先清待办的狂人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "d0d361f1-cede-4937-b789-8d06dec25a21",
+      "online_task_id": "019d7def-75b8-7fe3-a178-1cf8bc8f0867",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "d0d361f1-cede-4937-b789-8d06dec25a21",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "d0d361f1-cede-4937-b789-8d06dec25a21",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc59/PtMXHilIrRMN-BpJrCDi2_1JxeHgUt.png",
+            "content_type": "image/png",
+            "file_name": "PtMXHilIrRMN-BpJrCDi2_1JxeHgUt.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7514932289996068
+        },
+        "seed": 1932013082,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "熬夜过载的卷王男修，眼下青黑，法袍凌乱，背后满是计划符屏，像天劫来了都要先清待办的狂人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:05:39",
+      "completed_at": "2026-04-12T03:06:04.504940"
+    }
+  },
+  {
+    "code": "GLMR",
+    "name": "魅修本人",
+    "prompt": "攻击性极强的绝世女魅修，华丽红纱，高级厌倦脸，波浪长发，擅长把暧昧变成统治术的危险魔女。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "4379a7e3-314a-41c8-8b59-439dc0cbb03e",
+      "online_task_id": "019d7def-7e0a-70b2-85a3-074bedc4b2a0",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "4379a7e3-314a-41c8-8b59-439dc0cbb03e",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "4379a7e3-314a-41c8-8b59-439dc0cbb03e",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc5a/9z3JzoaFqdcEoYZK8pmeq_ZiJ8xNDC.png",
+            "content_type": "image/png",
+            "file_name": "9z3JzoaFqdcEoYZK8pmeq_ZiJ8xNDC.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7267579410108738
+        },
+        "seed": 1645333198,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "攻击性极强的绝世女魅修，华丽红纱，高级厌倦脸，波浪长发，擅长把暧昧变成统治术的危险魔女。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:05:41",
+      "completed_at": "2026-04-12T03:06:06.037489"
+    }
+  },
+  {
+    "code": "LINK",
+    "name": "结契脑",
+    "prompt": "情感浓度过高的偏执病娇女修，因果红线缠腕，眼神真又危险，像认定了就想把命绑一起的疯批美人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "84a27125-57ef-4814-9d6a-2824e98f958f",
+      "online_task_id": "019d7def-8660-70a0-b463-13e1f999d516",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "84a27125-57ef-4814-9d6a-2824e98f958f",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "84a27125-57ef-4814-9d6a-2824e98f958f",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc5a/gSQ9mmbdSP-oVUICETkFZ_um3xWfJi.png",
+            "content_type": "image/png",
+            "file_name": "gSQ9mmbdSP-oVUICETkFZ_um3xWfJi.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7494539050385356
+        },
+        "seed": 1566255220,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "情感浓度过高的偏执病娇女修，因果红线缠腕，眼神真又危险，像认定了就想把命绑一起的疯批美人。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:05:43",
+      "completed_at": "2026-04-12T03:06:07.555165"
+    }
+  },
+  {
+    "code": "NEST",
+    "name": "洞府保姆",
+    "prompt": "温柔治愈系的知心女医修，干净、冷静、略带疲惫，像你离了她生活系统会立刻崩塌的温柔师姐。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。",
+    "submit_result": {
+      "success": true,
+      "task_id": "4f9db917-0f69-4b22-a696-a1acc64528cb",
+      "online_task_id": "019d7def-8eba-7f32-b82e-2c4d0b1a105a",
+      "status": "pending",
+      "model_id": "fal-ai/flux-2/flash",
+      "model": "fal-ai/flux-2/flash",
+      "user_id": 550591,
+      "price": 2,
+      "balance": 12732.0
+    },
+    "task_id": "4f9db917-0f69-4b22-a696-a1acc64528cb",
+    "status": "completed",
+    "task_result": {
+      "success": true,
+      "task_id": "4f9db917-0f69-4b22-a696-a1acc64528cb",
+      "status": "completed",
+      "model": "fal-ai/flux-2/flash",
+      "output": {
+        "images": [
+          {
+            "url": "https://v3b.fal.media/files/b/0a95dc5a/JJYdTZIe4G0O-izkQbwo-_MSMEnRJt.png",
+            "content_type": "image/png",
+            "file_name": "JJYdTZIe4G0O-izkQbwo-_MSMEnRJt.png",
+            "file_size": null,
+            "width": 1024,
+            "height": 1024
+          }
+        ],
+        "timings": {
+          "inference": 0.7680644800129812
+        },
+        "seed": 634656835,
+        "has_nsfw_concepts": [
+          false
+        ],
+        "prompt": "温柔治愈系的知心女医修，干净、冷静、略带疲惫，像你离了她生活系统会立刻崩塌的温柔师姐。单人头像特写，近景胸像，直视镜头或轻微侧视，五官压迫感强，表情冷感或带攻击性，发丝和配饰细节清楚，背景虚化但保留命格元素，国风仙侠与赛博修真混合风格，电影级打光，超清细节，强烈个性，1:1头像。"
+      },
+      "price": 2,
+      "created_at": "2026-04-12T03:05:45",
+      "completed_at": "2026-04-12T03:06:09.066587"
+    }
+  }
+]
